@@ -1,0 +1,22 @@
+title: ML-Xrays
+description: Classify chest X-ray using deep learning
+about:
+  Created by Felipe Ferreira de Freitas in collaboration with Veronica Sanz
+
+  More info and the source code can be found https://github.com/FFFreitas/X-ray-and-ML
+
+code: https://github.com/FFFreitas/X-ray-and-ML
+
+sampleImages:
+  - name: Atelactasis
+    url: https://raw.githubusercontent.com/FFFreitas/X-ray-and-ML/master/Examples/Atelectasis_001.png
+  - name: Infiltration
+    url: https://raw.githubusercontent.com/FFFreitas/X-ray-and-ML/master/Examples/Infiltration.png
+  - name: Mass
+    url: https://raw.githubusercontent.com/FFFreitas/X-ray-and-ML/master/Examples/Mass.png
+  - name: Nodule
+    url: https://raw.githubusercontent.com/FFFreitas/X-ray-and-ML/master/Examples/Nodule_003.png
+  - name: Cardiomegaly
+    url: https://raw.githubusercontent.com/FFFreitas/X-ray-and-ML/master/Examples/Cardiomegaly_001.png
+  - name: Pneumothorax
+    url: https://raw.githubusercontent.com/FFFreitas/X-ray-and-ML/master/Examples/Pneumothorax_013.png
